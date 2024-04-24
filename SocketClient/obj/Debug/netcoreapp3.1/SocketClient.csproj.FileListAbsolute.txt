@@ -1,0 +1,12 @@
+D:\Lab2\WordSorting\SocketLab\SocketClient\bin\Debug\netcoreapp3.1\SocketClient.exe
+D:\Lab2\WordSorting\SocketLab\SocketClient\bin\Debug\netcoreapp3.1\SocketClient.deps.json
+D:\Lab2\WordSorting\SocketLab\SocketClient\bin\Debug\netcoreapp3.1\SocketClient.runtimeconfig.json
+D:\Lab2\WordSorting\SocketLab\SocketClient\bin\Debug\netcoreapp3.1\SocketClient.runtimeconfig.dev.json
+D:\Lab2\WordSorting\SocketLab\SocketClient\bin\Debug\netcoreapp3.1\SocketClient.dll
+D:\Lab2\WordSorting\SocketLab\SocketClient\bin\Debug\netcoreapp3.1\SocketClient.pdb
+D:\Lab2\WordSorting\SocketLab\SocketClient\obj\Debug\netcoreapp3.1\SocketClient.AssemblyInfoInputs.cache
+D:\Lab2\WordSorting\SocketLab\SocketClient\obj\Debug\netcoreapp3.1\SocketClient.AssemblyInfo.cs
+D:\Lab2\WordSorting\SocketLab\SocketClient\obj\Debug\netcoreapp3.1\SocketClient.csproj.CoreCompileInputs.cache
+D:\Lab2\WordSorting\SocketLab\SocketClient\obj\Debug\netcoreapp3.1\SocketClient.dll
+D:\Lab2\WordSorting\SocketLab\SocketClient\obj\Debug\netcoreapp3.1\SocketClient.pdb
+D:\Lab2\WordSorting\SocketLab\SocketClient\obj\Debug\netcoreapp3.1\SocketClient.genruntimeconfig.cache

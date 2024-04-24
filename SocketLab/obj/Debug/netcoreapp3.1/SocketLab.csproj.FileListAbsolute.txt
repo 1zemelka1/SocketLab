@@ -1,0 +1,12 @@
+D:\Lab2\WordSorting\SocketLab\SocketLab\bin\Debug\netcoreapp3.1\SocketLab.exe
+D:\Lab2\WordSorting\SocketLab\SocketLab\bin\Debug\netcoreapp3.1\SocketLab.deps.json
+D:\Lab2\WordSorting\SocketLab\SocketLab\bin\Debug\netcoreapp3.1\SocketLab.runtimeconfig.json
+D:\Lab2\WordSorting\SocketLab\SocketLab\bin\Debug\netcoreapp3.1\SocketLab.runtimeconfig.dev.json
+D:\Lab2\WordSorting\SocketLab\SocketLab\bin\Debug\netcoreapp3.1\SocketLab.dll
+D:\Lab2\WordSorting\SocketLab\SocketLab\bin\Debug\netcoreapp3.1\SocketLab.pdb
+D:\Lab2\WordSorting\SocketLab\SocketLab\obj\Debug\netcoreapp3.1\SocketLab.AssemblyInfoInputs.cache
+D:\Lab2\WordSorting\SocketLab\SocketLab\obj\Debug\netcoreapp3.1\SocketLab.AssemblyInfo.cs
+D:\Lab2\WordSorting\SocketLab\SocketLab\obj\Debug\netcoreapp3.1\SocketLab.csproj.CoreCompileInputs.cache
+D:\Lab2\WordSorting\SocketLab\SocketLab\obj\Debug\netcoreapp3.1\SocketLab.dll
+D:\Lab2\WordSorting\SocketLab\SocketLab\obj\Debug\netcoreapp3.1\SocketLab.pdb
+D:\Lab2\WordSorting\SocketLab\SocketLab\obj\Debug\netcoreapp3.1\SocketLab.genruntimeconfig.cache
